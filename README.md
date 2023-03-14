@@ -1,11 +1,11 @@
 # GlitchFx
 
-live site url:
+live site url: https://hregniez.github.io/GlitchFx/
 
 made with:
--CSS animations
--Clip path
--Keyframes
+  - CSS animations
+  - Clip path
+  - Keyframes
 
 5 layers of the same picture (ai generated img) to create glitch effect on hover
 
