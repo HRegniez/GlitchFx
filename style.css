@@ -3,7 +3,7 @@
     --glitch-height: 500px;
     --gap-horizontal: 20px;
     --gap-vertical: 20px;
-    --blend-color-1: #3b8dff29;
+    --blend-color-1: #3b8dff2a;
     --blend-color-2: #de4cff5e;
     --blend-color-3: #ff6a008f;
     --blend-color-4: #00ff843b;
@@ -68,7 +68,7 @@
 }
 
 .glitch:hover .glitch__img:nth-child(n+2) {
-	opacity: 0.15;
+	opacity: 0.2;
 }
 
 
